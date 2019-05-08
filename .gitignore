@@ -8,6 +8,10 @@ config/autoload/*.local.php
 # Binary gettext files
 *.mo
 
+.DS_Store
+
+
+
 # Data
 data/logs/
 data/cache/
